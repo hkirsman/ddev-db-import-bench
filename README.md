@@ -24,7 +24,7 @@ To get started with this repository, follow these steps:
     git checkout mysql8
     ```
 
-3. Run the test script:
+3. Run the test script (you need db.sql in the same folder):
 
     ```shell
     ./test.sh
