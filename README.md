@@ -1,4 +1,4 @@
-# DDEV db benchmark
+# DDEV and Lando db benchmark
 
 This is a simple DDEV repository for testing MariaDB and MySQL import speed. There are two branches available: `mariadb` and `mysql8`. Both branches have a similar setup, with the only difference being the database configuration.
 
@@ -24,7 +24,7 @@ To get started with this repository, follow these steps:
     git checkout mysql8
     ```
 
-3. Run the test script:
+3. Run the DDEV or Lando script:
 
     ```shell
     ./test.sh

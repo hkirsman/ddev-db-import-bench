@@ -1,0 +1,8 @@
+name: my-first-drupal10-app
+recipe: drupal10
+config:
+  webroot: web
+
+services:
+  myservice:
+    type: mysql:8.0
